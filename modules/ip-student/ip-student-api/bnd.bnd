@@ -1,0 +1,10 @@
+Bundle-Name: ip-student-api
+Bundle-SymbolicName: com.khalibre.student.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.khalibre.student.exception,\
+	com.khalibre.student.model,\
+	com.khalibre.student.service,\
+	com.khalibre.student.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../ip-student-service/service.xml

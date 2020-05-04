@@ -1,0 +1,4 @@
+Bundle-Name: ip-student-web
+Bundle-SymbolicName: com.khalibre.student.web
+Bundle-Version: 1.0.0
+Export-Package: com.khalibre.student.web.constants

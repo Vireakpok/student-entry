@@ -1,0 +1,1 @@
+create index IX_432166D3 on STUDENT_StudentEntry (uuid_[$COLUMN_LENGTH:75$]);

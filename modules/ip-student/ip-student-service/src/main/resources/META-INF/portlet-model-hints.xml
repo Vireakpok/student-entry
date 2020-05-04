@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.khalibre.student.model.StudentEntry">
+		<field name="uuid" type="String" />
+		<field name="studentEntryId" type="long" />
+		<field name="studentEntryName" type="String" />
+		<field name="studentEntryGender" type="String" />
+		<field name="studentEntryAge" type="int" />
+	</model>
+</model-hints>
